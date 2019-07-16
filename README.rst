@@ -16,6 +16,19 @@ https://www.1001fonts.com/dosis-font.html
 https://fonts.google.com/specimen/Dosis
 https://www.fontsquirrel.com/fonts/dosis
 
+---==[BEGIN]==---
+Copyright (c) 2011, Edgar Tolentino and Pablo Impallari (www.impallari.com|impallari@gmail.com),
+Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),
+with Reserved Font Names "Dosis".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+---==[BEGIN]==---
+
+Google is likely the best place to fetch the font in an automated fashion.
+https://fonts.google.com/download?family=Dosis
+
 GIMP was used to convert the logo to black-and-white and touch up some pixels.
 Inkscape was used to trace bitmap for the upper portion of the logo.
 Colours were obtained from the JPEG version of the original logo.
