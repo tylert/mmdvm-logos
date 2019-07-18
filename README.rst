@@ -1,5 +1,5 @@
-MMDVM Logo
-==========
+MMDVM Logos
+===========
 
 The highest resolution logo for MMDVM was found on Facebook.
 https://www.facebook.com/pg/MMDVM/about/?ref=page_internal
