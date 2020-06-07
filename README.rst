@@ -17,3 +17,5 @@ The most probable font candidates for the lower text were:
 GIMP was used to convert the logo to black-and-white and to touch up some pixels.
 Inkscape was then used to trace bitmap for the upper portion of the logo.
 Colours were obtained from the JPEG version of the original logo.
+
+(7632x6480 pixels)
