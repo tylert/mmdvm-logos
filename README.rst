@@ -8,6 +8,7 @@ The font used in the lower text was mostly-identified by WhatTheFont.
 https://www.myfonts.com/WhatTheFont/
 
 The most probable font candidates for the lower text were:
+
 * Core Sans D 55 Bold (CAD~$20)
 * Heiders Sans C Bold (CAD~$25)
 * Heiders Sans R1 Bold (CAD~$25)
